@@ -20,8 +20,23 @@
 
 /* msg box parent*/
 .dsoUjb {
+  /* border-radius: 4px;
+   --webkit-border-radius: 4px;*/
+  background-color: transparent;
+}
+
+.WQKmIb .jGyvbd > .nF6pT:last-child {
+  background-color: transparent;
+}
+
+.oGsu4 {
   border-radius: 4px;
   --webkit-border-radius: 4px;
+}
+
+/* disable hover on individual msg */
+.iKCcE.hu21Y {
+  pointer-events: none;
 }
 
 /* user avatar position inside msg box*/
@@ -53,5 +68,10 @@ div[title="Toggle history"],
 div[title="Add video meeting"],
   /* hide person hover card*/
 iframe[src^="https://contacts.google.com/widget/hovercard/v/2"] {
+  display: none;
+}
+
+/* hide react on msg*/
+.HO0hcf {
   display: none;
 }
