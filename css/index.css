@@ -1,0 +1,57 @@
+/* left sidebar */
+.X9KLPc {
+
+}
+
+/* left sidebar top */
+.Riuhhf {
+  border-bottom: 1px solid #dadce0;
+}
+
+/* right sidebar top */
+.QTQg5e {
+
+}
+
+/* right sidebar*/
+.Bl2pUd.krjOGe {
+  background: #eceff1
+}
+
+/* msg box parent*/
+.dsoUjb {
+  border-radius: 4px;
+  --webkit-border-radius: 4px;
+}
+
+/* user avatar position inside msg box*/
+.jGyvbd {
+  margin-left: 8px;
+}
+
+/* msg box inner*/
+.cmEq8b.COKy9b {
+  padding: 10px 10px 0 10px
+}
+
+/* hide link preview boxes */
+.V5MAMb {
+  display: none;
+}
+
+/* new message box */
+.byY7Yb.cFc9ae {
+  border-top: 1px solid #dadce0;
+}
+
+.PhFuQe.yXgmRe .dJ9vNe {
+  border: 1px solid #dadce0;
+}
+
+/* hide unwanted buttons from new message*/
+div[title="Toggle history"],
+div[title="Add video meeting"],
+  /* hide person hover card*/
+iframe[src^="https://contacts.google.com/widget/hovercard/v/2"] {
+  display: none;
+}
