@@ -6,7 +6,7 @@ over google chat, while google chat provides formatting of code using three back
 but that consume time and is ignored as extra step. 
 This chrome extension does it for you automatically . 
 
-#Usage
+# Usage
 Paste code using.
 ```
 Ctrl + Shift + V (Linux, Windows)
