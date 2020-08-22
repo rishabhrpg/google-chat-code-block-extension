@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Google Chat ReStyler",
+  "name": "Pretty Paste Code (Google chat)",
   "version": "1.0.0",
   "minimum_chrome_version": "80",
   "icons": {
@@ -8,9 +8,9 @@
     "32": "assets/icons/main/32.png",
     "48": "assets/icons/main/48.png"
   },
-  "description": "Google Chat ReStyler",
-  "homepage_url": "https://github.com/ankurk91",
-  "short_name": "G-Chat ReStyler",
+  "description": "Prettify code in google chat when you paste it using ctrl + shift + v (Linux) or cmd + shift + v (Mac) ",
+  "homepage_url": "https://github.com/rishabhrpg",
+  "short_name": "G-Chat CodeBlocks",
   "permissions": [
     "https://chat.google.com/*"
   ],
@@ -21,7 +21,7 @@
       ],
       "all_frames": true,
       "js": [
-        "js/index.js"
+        "js/extend.js"
       ],
       "match_about_blank": false,
       "run_at": "document_end"
